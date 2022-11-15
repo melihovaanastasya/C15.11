@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\bin\Debug\net7.0\16.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\bin\Debug\net7.0\16.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\bin\Debug\net7.0\16.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\bin\Debug\net7.0\16.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\bin\Debug\net7.0\16.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\16.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\16.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\16.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\16.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\16.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\refint\16.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\16.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\16.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 15.11\c15.11\16\obj\Debug\net7.0\ref\16.dll
